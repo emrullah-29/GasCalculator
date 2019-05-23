@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23708" started-at="2019-05-23T22:54:30Z" finished-at="2019-05-23T22:54:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23708" started-at="2019-05-23T22:54:30Z" finished-at="2019-05-23T22:54:54Z">
+      <class name="MainTest.lunchingApp">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MainTest.lunchingApp@ba2f4ec]" name="setUp" is-config="true" duration-ms="7842" started-at="2019-05-23T22:54:30Z" finished-at="2019-05-23T22:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CalculateTest()[pri:0, instance:MainTest.lunchingApp@ba2f4ec]" name="CalculateTest" duration-ms="15549" started-at="2019-05-23T22:54:38Z" finished-at="2019-05-23T22:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculateTest -->
+        <test-method status="PASS" signature="closeUp()[pri:0, instance:MainTest.lunchingApp@ba2f4ec]" name="closeUp" is-config="true" duration-ms="276" started-at="2019-05-23T22:54:54Z" finished-at="2019-05-23T22:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- MainTest.lunchingApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
